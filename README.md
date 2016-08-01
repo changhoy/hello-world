@@ -1,2 +1,6 @@
 # hello-world
-study how to use github
+
+Hi, Humans!
+
+I am doing some practices to learm github
+
